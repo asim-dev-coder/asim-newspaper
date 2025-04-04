@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "category": "",
+    "display_category": "",
+    "duration": "",
+    "level": "",
+    "description": "",
+    "correspondent": "",
+    "rating": 4.5,
+    "reviews": 2,
+    "tags": [
+      "Featured",
+      "Free"
+    ],
+    "src": ""
+  }
+]

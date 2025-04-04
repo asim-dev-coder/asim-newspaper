@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "প্রচ্ছদ",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5NwT2pgHVugxl5-Tu61rdEfdhJrm-buhSKvgdb31nRFoiC69NfA9zYJL7-temZk1DMQo&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "বিশেষ সংবাদ",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrM98Sd6nKO9zSKpt3xRGrNkcNhjVZhKl_0g&s"
+    },
+    {
+      "id": 3,
+      "name": "ছবি",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCToqny5s2i6PlxZw1wcJUsb2zJJvw79Rw32b72UMUJFiKmoltf3nfHxSC3SnJMqXzbr0&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "ভিডিও",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztEvh__wqD0H_tWdAPtkccEdVdyoQNLoKkw&s"
+    },
+    {
+      "id": 5,
+      "name": "প্রযুক্তি",
+      "icon": "https://cdn-icons-png.flaticon.com/128/18111/18111997.png"
+    },
+    {
+      "id": 6,
+      "name": "শিক্ষা",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEF1VVado8oDyN_74yeH3UjmgBExb4YwWpC8YQ4FkGZDbvuxRxu2NzZsMmOsTcss-Uig&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "ধর্ম",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTllSbVc5jinVst7fcBPdj_LQbKU8IPv-wpg&s"
+    },
+    {
+      "id": 8,
+      "name": "অন্য আলো",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXqGLcLgzeZ6WljtuBLqPXpxTH9ot3JbmWQ&s"
+    },
+    {
+      "id": 9,
+      "name": "আরও",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXXcsDpfeqiTKxjNLOOov913oqHO6QslJEDpoCA5E08tvZf5KfIbrfYnNXSZEdbpiAKQ&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "name": "প্রথম আলো ই পেপার",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMuzDBMi6_qzS_hPVI2YixGdbJMBqSBjFYweC5yj66TX8gVamh4slE6-eXb--gAqYYVfI&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "name": "প্রথম আলো ট্রাস্ট",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYjn4eRxNFN2FudTkhGd_Mh4AbjR2wQnt-AP8WVjYZ18XHdpJ9xgOMOW40mBCM6Xwgms&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "name": "নাগরিক সংবাদ",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrA5FeyHqG0r7QEGQDNwEMPgaszW8IiZXtg&s"
+    },
+    {
+      "id": 13,
+      "name": "চিরন্তন ১৯৭১",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NCSEBhNC13xwEoOsNdgu4IEsrR3OwViZhw&s"
+    },
+    {
+      "id": 14,
+      "name": "কিআ",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmMf6WZLm7JgGRwUc1i5vXR43WKpBmBPxnA&s"
+    },
+    {
+      "id": 15,
+      "name": "বিজ্ঞানচিন্তা",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A0KGoKKByuXN4XEeHeuGnUtkZ0cQ23qPCpxeng_jp4Rj2VTYNWlqoR2z--bZK7GpBg&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "name": "বন্ধুসভা",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJQTNiyaw10o8_o3ydN5CNbStw51P528oZSFyyDiaIB0taDovvdxSaC5lXBYNT5sfvsA&usqp=CAU"
+    },
+    {
+      "id": 17,
+      "name": "প্রথমা প্রকাশনী",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkUCwnp0b66cmdd1EP7kvv18Mvyi-wzSVkGKpL_QN_dHszLp8G9yNtPqYRWqhyzNLsZn8&usqp=CAU"
+    }
+  ]

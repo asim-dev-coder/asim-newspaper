@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "বিভিন্ন দেশের আমদানিকৃত পণ্যের উপর শুল্ক আরোপ করলেন ট্রাম্প, বাংলাদেশে ৩৭%",
+    "correspondent": "ইন্টার্ন্যশনাল ডেস্ক",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://i.guim.co.uk/img/media/8e1f79e5be260976e6569e8451d428678a93bc18/0_251_4741_2844/master/4741.jpg?width=465&dpr=1&s=none&crop=none",
+    "description": "ট্রাম্পের এহেন কর্মকান্ডকে বাণিজ্যযুদ্ধ হিসেবে দেখছেন অর্থনীতিবিদেরা"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "বিমসটেক শীর্ষ সম্মেলনের ফাঁকে ইউনুস মোদি বৈঠক অনুষ্ঠিত",
+    "correspondent": "বাসস",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://static.theprint.in/wp-content/uploads/2025/04/Modi-yunus-1-696x392.jpg?compress=true&quality=80&w=376&dpr=2.6",
+    "description": "আন্চলিক সহযোগিতা জোরদারের আশাবাদ দুই রাষ্ট্রনেতার"
+  }
+]

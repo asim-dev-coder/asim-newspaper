@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "রাজশাহীর আমের বাগানে গাছে এসেছে মুকুল, এবছর বাম্পার ফলনের আশা",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "জেলা প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, রাজশাহী",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Xp2vRynd2yjUSc0EyFm74ix-e4CWnZtcafYkEV9DEe8SowWnt8pVSr7QoXpZNYUClS4&usqp=CAU",
+    "description": "ভালো মানের আম চীনে রপ্তানির জন্য প্রস্তুত করা হবে বলে জানান বাগান মালিকেরা"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "টঙ্গী থেকে নিষিদ্ধ জঙ্গী সংগঠনের ২ কর্মী গ্রেফতার",
+    "correspondent": "জেলা প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, গাজীপুর",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnsM1XlpGaoFJHU-P637ogLFYQNLUs6j7dQ&s",
+    "description": "আজ আয়োজিত এক সংবাদ সম্মেলনে তিনি এ কথা বলেন"
+  }
+]

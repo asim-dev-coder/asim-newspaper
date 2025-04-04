@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "বনশ্রীতে কাঁচাবাজার চড়া, পেঁয়াজের কেজি ১৬০ টাকা",
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-pfnORwRYd8mHYccBBpg0qfBHU9ppLc_5Q&s",
+    "description": "দোকানে মূল্য তালিকা ঝুলিয়ে রাখার সরকারি বাধ্যবাধকতা মানছেন না অনেকেই"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "ইদের ছুটি শেষে রাজধানী ফিরতে শুরু করেছে নগরবাসী, ভাড়া আদায়ে চলছে অনিয়ম",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8iLUEHxUGdd5kFdT9vEn1SBPK-3K-t8HWg&s",
+    "description": "নিয়ম মানা না হলে, কঠোর ব্যবস্থার হুশিয়ারি সড়ক যোগাযোগ উপদেষ্টার"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "রাজধানীর বিনোদন কেন্দ্রগুলোতে উপচে পড়া ভিড়",
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://cdn.daily-sun.com/public/gallery/2024/06/18/1718710582-b5e9b4f86ce43ca65bd79c894c4a924c.gif",
+    "description": "আজ আয়োজিত এক সংবাদ সম্মেলনে তিনি এ কথা বলেন"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "অষ্ট্রেলিয়ায় শুটিং এ গিয়ে আইফোন খোয়ালেন সিয়াম",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Siam_Ahmed_%2813%29_%28cropped%29.jpg",
+    "description": ""
+  }
+]

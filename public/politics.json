@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "আওয়ামিলীগ নিষিদ্ধের প্রশ্নে আপস নয়, বললেন এনসিপির নাহিদ",
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৩০ মিনিট আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8y5D0d09M45jLM7bkmBObyWdBv5mBzz0RmwIWcwIln-e4WlV9LbCWuY&usqp=CAE&s",
+    "description": "আজ আয়োজিত এক সংবাদ সম্মেলনে তিনি এ কথা বলেন"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "সরকারি অফিসে ঈদের আমেজ, সহকর্মীদের সাথে চলছে ঈদ শুভেচ্ছা বিনিময়",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "১ ঘন্টা আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqobLYRFJVD14RCMtdVY5fjH0rqSVNpvm83A&s",
+    "description": "ঈদের আনন্দ ভাগাভাগি করে নিলেন সহকর্মীদের সাথে"
+  },
+  {
+    "id": 3,
+    "category": "",
+    "title": "বাড্ডায় গলায় গামছা পেচানো অবস্থায় রুমের ভেতর থেকে তরুণীর লাশ উদ্ধার, হত্যাকান্ড কিনা খতিয়ে দেখছে পুলিশ",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৯ ঘন্টা আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAVbiprLU4rdJQw5m-_hq4MdMebdJCdiRjAsJKQD-jX2pbpNSoav9awoq2-buYr5J0dQ&usqp=CAU",
+    "description": "বাইরে থেকে কোন সারাশব্দ না পেয়ে পুলিশকে জানান এলাকাবাসী"
+  }
+]

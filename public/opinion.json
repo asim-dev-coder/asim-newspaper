@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "category": "Art & Design",
+    "title": "বিমসটেক শীর্ষ সম্মেলনের ফাঁকে ইউনুস মোদি বৈঠক অনুষ্ঠিত",
+    "correspondent": "বাসস",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৪ ঘন্টা আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://static.theprint.in/wp-content/uploads/2025/04/Modi-yunus-1-696x392.jpg?compress=true&quality=80&w=376&dpr=2.6",
+    "description": "আন্চলিক সহযোগিতা জোরদারের আশাবাদ দুই রাষ্ট্রনেতার"
+  },
+  {
+    "id": 2,
+    "category": "Art & Design",
+    "title": "ঈদের ছুটির পর পূর্বের রূপে ফিরতে শুরু করেছে রাজধানী ঢাকা, পরিকল্পিত নগরায়নের প্রত্যাশা সবার",
+    "type": "Course",
+    "lessons": 8,
+    "correspondent": "নিজস্ব প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ঢাকা",
+    "duration": "৫ ঘন্টা আগে",
+    "level": "৪ বার দেখেছে",
+    "price": {
+      "current": 19.99,
+      "original": 29.99,
+      "discount": "-33%"
+    },
+    "tags": [
+      "Popular"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcW4lExs99ngEFI1UovKQPpmnAJpvNFVC4lvIB54c_RJhOHNj0q680HyqlrxINkUcjnU&usqp=CAU",
+    "description": "কয়েকদিনের ছুটিতে যেন হাঁফ ছেড়ে বেচেছিল ব্যস্ততম এ নগরী"
+  },
+  {
+    "id": 3,
+    "category": "Art & Design",
+    "title": "টঙ্গী থেকে নিষিদ্ধ জঙ্গী সংগঠনের ২ কর্মী গ্রেফতার",
+    "correspondent": "জেলা প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, গাজীপুর",
+    "duration": "৭ ঘন্টা আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnsM1XlpGaoFJHU-P637ogLFYQNLUs6j7dQ&s",
+    "description": "আজ এক প্রেস ব্রিফিং এ টঙ্গী থানার ইন্সপেক্টর এ কথা বলেন"
+  },
+  {
+    "id": 4,
+    "category": "Development",
+    "title": "ভোলায় তরমুজের ফলন কম, ন্যায্যমূল্য না পাওয়ার আশঙ্কা",
+    "correspondent": "জেলা প্রতিনিধি",
+    "dateplace": "৫ - ৪ - ২০২৫, ভোলা",
+    "duration": "৪ ঘন্টা আগে",
+    "type": "Course",
+    "level": "৪ বার দেখেছে",
+    "tags": [
+      "Featured"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpwsA1KBwfcdkiy254eWCAbLlF5pZi33ccQ&s",
+    "description": "এবার জেলার ৩ টি উপজেলায় তরমুজের চাষ হচ্ছে বলে জানান জেলা কৃষি কর্মকর্তা"
+  }
+]
